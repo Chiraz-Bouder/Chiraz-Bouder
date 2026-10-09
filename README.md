@@ -20,7 +20,6 @@ Python · PyTorch · C · MATLAB · OpenCV · Git
 * **Alzheimer's Detection:** Self-supervised learning for MRI classification.
 * **Brain Activity Decoding:** Exploring deep learning methods for EEG and visual information decoding.
 
-Currently looking for a **6-month research internship starting February/March 2027**, with the goal of pursuing a PhD afterward.
 
 
 <!---
